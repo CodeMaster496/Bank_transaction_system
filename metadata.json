@@ -1,0 +1,6 @@
+{
+  "name": "ApexVault - Secure Banking & Real-Time Transfers",
+  "description": "Secure banking application with PostgreSQL ledger, real-time transfers, live WebSocket balance updates, and transaction logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
